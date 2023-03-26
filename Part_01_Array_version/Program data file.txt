@@ -1,0 +1,27 @@
+
+-------Queue 01-------
+
+	1. Ravi
+	2. Empty
+	3. Empty
+	4. Empty
+	5. Empty
+	6. Empty
+
+-------Queue 02-------
+
+	1. kavindu
+	2. Empty
+	3. Empty
+	4. Empty
+	5. Empty
+	6. Empty
+
+-------Queue 03-------
+
+	1. Empty
+	2. Empty
+	3. Empty
+	4. Empty
+	5. Empty
+	6. Empty

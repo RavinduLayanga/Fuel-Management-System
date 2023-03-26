@@ -1,0 +1,231 @@
+
+
+---------Pump 01---------
+
+
+
+Person 1 --
+
+	First Name  :- Ravindu
+	Second Name :- 5
+	Vehicle NO  :- 5
+	No.of Liters:- 5
+
+Person 2 --
+
+	First Name  :- janaka
+	Second Name :- kl
+	Vehicle NO  :- kl
+	No.of Liters:- kl
+
+--Person 3 --
+
+	First Name  :- Empty
+	Second Name :- Empty
+	Vehicle NO  :- Empty
+	No.of Liters:- 0
+
+--Person 4 --
+
+	First Name  :- Empty
+	Second Name :- Empty
+	Vehicle NO  :- Empty
+	No.of Liters:- 0
+
+--Person 5 --
+
+	First Name  :- Empty
+	Second Name :- Empty
+	Vehicle NO  :- Empty
+	No.of Liters:- 0
+
+--Person 6 --
+
+	First Name  :- Empty
+	Second Name :- Empty
+	Vehicle NO  :- Empty
+	No.of Liters:- 0
+
+---------Pump 02---------
+
+
+
+--Person 1 --
+
+	First Name  :- Empty
+	Second Name :- Empty
+	Vehicle NO  :- Empty
+	No.of Liters:- 0
+
+--Person 2 --
+
+	First Name  :- Empty
+	Second Name :- Empty
+	Vehicle NO  :- Empty
+	No.of Liters:- 0
+
+--Person 3 --
+
+	First Name  :- Empty
+	Second Name :- Empty
+	Vehicle NO  :- Empty
+	No.of Liters:- 0
+
+--Person 4 --
+
+	First Name  :- Empty
+	Second Name :- Empty
+	Vehicle NO  :- Empty
+	No.of Liters:- 0
+
+--Person 5 --
+
+	First Name  :- Empty
+	Second Name :- Empty
+	Vehicle NO  :- Empty
+	No.of Liters:- 0
+
+--Person 6 --
+
+	First Name  :- Empty
+	Second Name :- Empty
+	Vehicle NO  :- Empty
+	No.of Liters:- 0
+
+---------Pump 03---------
+
+
+
+Person 1 --
+
+	First Name  :- sdaas
+	Second Name :- gh
+	Vehicle NO  :- gh
+	No.of Liters:- gh
+
+--Person 2 --
+
+	First Name  :- Empty
+	Second Name :- Empty
+	Vehicle NO  :- Empty
+	No.of Liters:- 0
+
+--Person 3 --
+
+	First Name  :- Empty
+	Second Name :- Empty
+	Vehicle NO  :- Empty
+	No.of Liters:- 0
+
+--Person 4 --
+
+	First Name  :- Empty
+	Second Name :- Empty
+	Vehicle NO  :- Empty
+	No.of Liters:- 0
+
+--Person 5 --
+
+	First Name  :- Empty
+	Second Name :- Empty
+	Vehicle NO  :- Empty
+	No.of Liters:- 0
+
+--Person 6 --
+
+	First Name  :- Empty
+	Second Name :- Empty
+	Vehicle NO  :- Empty
+	No.of Liters:- 0
+
+---------Pump 04---------
+
+
+
+Person 1 --
+
+	First Name  :- rav
+	Second Name :- lk
+	Vehicle NO  :- lk
+	No.of Liters:- lk
+
+--Person 2 --
+
+	First Name  :- Empty
+	Second Name :- Empty
+	Vehicle NO  :- Empty
+	No.of Liters:- 0
+
+--Person 3 --
+
+	First Name  :- Empty
+	Second Name :- Empty
+	Vehicle NO  :- Empty
+	No.of Liters:- 0
+
+--Person 4 --
+
+	First Name  :- Empty
+	Second Name :- Empty
+	Vehicle NO  :- Empty
+	No.of Liters:- 0
+
+--Person 5 --
+
+	First Name  :- Empty
+	Second Name :- Empty
+	Vehicle NO  :- Empty
+	No.of Liters:- 0
+
+--Person 6 --
+
+	First Name  :- Empty
+	Second Name :- Empty
+	Vehicle NO  :- Empty
+	No.of Liters:- 0
+
+---------Pump 05---------
+
+
+
+Person 1 --
+
+	First Name  :- eas
+	Second Name :- hh
+	Vehicle NO  :- hh
+	No.of Liters:- hh
+
+--Person 2 --
+
+	First Name  :- Empty
+	Second Name :- Empty
+	Vehicle NO  :- Empty
+	No.of Liters:- 0
+
+--Person 3 --
+
+	First Name  :- Empty
+	Second Name :- Empty
+	Vehicle NO  :- Empty
+	No.of Liters:- 0
+
+--Person 4 --
+
+	First Name  :- Empty
+	Second Name :- Empty
+	Vehicle NO  :- Empty
+	No.of Liters:- 0
+
+--Person 5 --
+
+	First Name  :- Empty
+	Second Name :- Empty
+	Vehicle NO  :- Empty
+	No.of Liters:- 0
+
+--Person 6 --
+
+	First Name  :- Empty
+	Second Name :- Empty
+	Vehicle NO  :- Empty
+	No.of Liters:- 0
